@@ -1,6 +1,6 @@
-# Zora Create / Mint Page Template
+CRAFT
 
-Demo site: <https://mint-page-template.vercel.app/>
+
 
 ## Step 1. Creating a mintable collection
 
